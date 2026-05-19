@@ -28,8 +28,9 @@ npm run dev
 ## AI Usage
 AI tools were used for guidance, debugging, and improving UI structure. All code was reviewed and understood before submission.
 
-##Screenshots
+## Screenshots
 ![Desktop](./img/Desktop-ss.PNG)
+![Mobile](./img/Mobile-ss.jpg)
 
 ## Improvements for Future
 - Pagination
